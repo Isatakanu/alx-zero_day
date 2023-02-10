@@ -1,2 +1,2 @@
 readme
-Alx-zero_day
+Alx-zero_day (course)
